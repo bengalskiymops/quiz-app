@@ -61,7 +61,7 @@
 ### 1. Клонировать репозиторий
 
 
-git clone 
+git clone https://github.com/bengalskiymops/quiz-app.git
 
 cd quiz-app
 
